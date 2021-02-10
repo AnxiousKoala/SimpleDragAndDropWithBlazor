@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SimpleDragAndDropWithBlazor.Models
+namespace KanbanBoard.Models
 {
     public class JobModel
     {
